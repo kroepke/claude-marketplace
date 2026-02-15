@@ -1,0 +1,28 @@
+{
+  "name": "kroepke-marketplace",
+  "owner": {
+    "name": "kroepke"
+  },
+  "metadata": {
+    "description": "Community skills and plugins for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "codex-plan-reviewer",
+      "description": "Two-pass adversarial review of design documents and implementation plans using OpenAI Codex CLI",
+      "version": "1.0.0",
+      "author": {
+        "name": "kroepke"
+      },
+      "repository": "https://github.com/kroepke/codex-plan-reviewer",
+      "keywords": ["review", "planning", "codex", "adversarial"],
+      "category": "development",
+      "source": {
+        "source": "github",
+        "repo": "kroepke/codex-plan-reviewer",
+        "ref": "main",
+        "sha": "2891768a25515381edc2e4c0188aa6172b336b1e"
+      }
+    }
+  ]
+}
