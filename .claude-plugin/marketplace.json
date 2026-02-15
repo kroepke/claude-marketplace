@@ -10,7 +10,7 @@
     {
       "name": "codex-plan-reviewer",
       "description": "Two-pass adversarial review of design documents and implementation plans using OpenAI Codex CLI",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "kroepke"
       },
@@ -21,7 +21,7 @@
         "source": "github",
         "repo": "kroepke/codex-plan-reviewer",
         "ref": "main",
-        "sha": "dd1a89cb067a6d1e78003e3345d0e2f7ab5e5ba6"
+        "sha": "1c54f924813ea32750517b3aeda8c6b723375377"
       }
     }
   ]
