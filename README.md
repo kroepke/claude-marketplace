@@ -27,3 +27,19 @@ Two-pass adversarial review of design documents and implementation plans using O
 - `codex` CLI installed and authenticated (`npm i -g @openai/codex`)
 
 **Source:** [kroepke/codex-plan-reviewer](https://github.com/kroepke/codex-plan-reviewer)
+
+### java-debugger
+
+Debug Java code using JDI-based state inspection instead of `System.out.println`. Sets breakpoints, watchpoints, evaluates expressions, and returns structured JSON — all in 3-5 seconds, without modifying source code.
+
+**Install:**
+
+```
+/plugin install java-debugger@kroepke-marketplace
+```
+
+**Prerequisites:**
+- JDK 21+
+- Maven or Gradle
+
+**Source:** [kroepke/java-debugger-skill](https://github.com/kroepke/java-debugger-skill)
