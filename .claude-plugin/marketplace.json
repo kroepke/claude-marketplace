@@ -27,7 +27,7 @@
     {
       "name": "java-debugger",
       "description": "Debug Java code using JDI-based state inspection instead of System.out.println. Sets breakpoints, watchpoints, evaluates expressions, and returns structured JSON — all in 3-5 seconds.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "kroepke"
       },
@@ -38,7 +38,7 @@
         "source": "github",
         "repo": "kroepke/java-debugger-skill",
         "ref": "main",
-        "sha": "c8fdbd9fba242fa61d3188c17e873c73ad1a3c4d"
+        "sha": "6e41b79637213b025594c4874cf67d1a75e0e49a"
       }
     }
   ]
