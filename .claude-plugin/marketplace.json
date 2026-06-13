@@ -18,8 +18,8 @@
       "keywords": ["review", "planning", "codex", "adversarial"],
       "category": "development",
       "source": {
-        "source": "github",
-        "repo": "kroepke/codex-plan-reviewer",
+        "source": "url",
+        "url": "https://github.com/kroepke/codex-plan-reviewer.git",
         "ref": "main",
         "sha": "1c54f924813ea32750517b3aeda8c6b723375377"
       }
@@ -35,8 +35,8 @@
       "keywords": ["java", "debugging", "jdi", "breakpoints", "watchpoints"],
       "category": "development",
       "source": {
-        "source": "github",
-        "repo": "kroepke/java-debugger-skill",
+        "source": "url",
+        "url": "https://github.com/kroepke/java-debugger-skill.git",
         "ref": "main",
         "sha": "39ebdada30774330a73ca7d9a54fab9d16810f68"
       }
@@ -52,8 +52,8 @@
       "keywords": ["architecture", "system-design", "adr", "rfc", "design-review", "trade-offs"],
       "category": "development",
       "source": {
-        "source": "github",
-        "repo": "kroepke/exploring-system-design",
+        "source": "url",
+        "url": "https://github.com/kroepke/exploring-system-design.git",
         "ref": "main",
         "sha": "6487c873dbb3a48cb364f991a53f70c1cbfa9834"
       }
