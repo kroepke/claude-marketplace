@@ -40,6 +40,23 @@
         "ref": "main",
         "sha": "39ebdada30774330a73ca7d9a54fab9d16810f68"
       }
+    },
+    {
+      "name": "exploring-system-design",
+      "description": "Structure architecture and system-design work — clarify half-formed problems, explore the design space without premature convergence, stress-test trade-offs, and capture decisions in durable artifacts before jumping to code",
+      "version": "1.0.0",
+      "author": {
+        "name": "kroepke"
+      },
+      "repository": "https://github.com/kroepke/exploring-system-design",
+      "keywords": ["architecture", "system-design", "adr", "rfc", "design-review", "trade-offs"],
+      "category": "development",
+      "source": {
+        "source": "github",
+        "repo": "kroepke/exploring-system-design",
+        "ref": "main",
+        "sha": "6487c873dbb3a48cb364f991a53f70c1cbfa9834"
+      }
     }
   ]
 }

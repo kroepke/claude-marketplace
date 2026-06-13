@@ -43,3 +43,17 @@ Debug Java code using JDI-based state inspection instead of `System.out.println`
 - Maven or Gradle
 
 **Source:** [kroepke/java-debugger-skill](https://github.com/kroepke/java-debugger-skill)
+
+### exploring-system-design
+
+Structure architecture and system-design work — clarify half-formed problems, explore the design space without premature convergence, stress-test trade-offs, and capture decisions in durable artifacts (ADRs, option notes, design docs) before jumping to code.
+
+**Install:**
+
+```
+/plugin install exploring-system-design@kroepke-marketplace
+```
+
+**Prerequisites:** None
+
+**Source:** [kroepke/exploring-system-design](https://github.com/kroepke/exploring-system-design)
